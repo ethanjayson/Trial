@@ -106,7 +106,7 @@
 				<li><a href="#">Gallery</a></li>
 				<li><a href="#">Journey</a></li>
 				<li><a href="#">Contact Us</a></li>
-				<li><a href="#">Products</a></li>
+				<li><a href="#">Goods</a></li>
 			</ul>
 		</div>
 
